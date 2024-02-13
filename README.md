@@ -14,7 +14,7 @@ Model Evaluation: The trained model is evaluated on the testing set to assess it
 
 Requirements
 Python 3.x
-TensorFlow (if using TensorFlow)
-PyTorch (if using PyTorch)
+TensorFlow
+PyTorch
 NumPy
-Matplotlib (for visualization, optional)
+Matplotlib (for visualization)
